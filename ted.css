@@ -1,0 +1,104 @@
+body {
+    background:url("ted3.jpg");
+background-size:cover;
+background-attachment:fixed;
+  background-image:.btn;
+
+}
+.btn {
+  background-color: #14213D;
+  color: #FFF;
+  font-family: 'Amatic SC', cursive;
+  font-size: 26px;
+  padding: 14px;
+  background-image: -webkit-linear-gradient(#FFD194, #BC1324);
+}
+h1 {
+  color: #FFF;
+  font-family: "Playfair Display", serif;
+  font-size: 32px;
+  padding-top: 100px;
+  text-align: left;
+   text-transform: uppercase;
+  width: 60%;
+  word-spacing: 0.05em;
+ letter-spacing: 0.02em;
+}
+
+h2,h4 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: rgba(260, 260, 260, 0.5);
+  font-weight: 100;
+  font-family: Roboto, sans-serif;
+  font-size: 22px;
+  font-style: italic;
+  line-height: 24px;
+  padding-bottom: 30px;
+  text-align: left;
+  width: 70%;
+}
+li {
+  color: AliceBlue;
+  display:block;
+  font-family: 'Roboto', sans-serif;
+  font-size:20px;
+  font-weight: 100;
+  margin: 16px 20px;
+  text-transform: lowercase;
+}
+
+p {
+  color: AliceBlue;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  line-height: 1.7em;
+  text-align: left;
+  width: 100%;
+}
+
+.byline {
+  color: rgba(255, 255, 255, 0.5);
+  float: left;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+
+.caption {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: rgba(255, 255, 255, 0.65);
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 14px;
+  margin-left: 20px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 60%;
+}
+
+.content {
+  padding: 40px;
+}
+
+
+.writer-img {
+  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  float: left;
+  width: 50px;
+}
+footer {
+  padding: 4rem 0;
+  border-top: 1px solid #999999;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.125rem;
+  color: #999999;
+  text-align: center;
+}
